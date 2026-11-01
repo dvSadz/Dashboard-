@@ -27,6 +27,7 @@ const SITES = [
   { nome: "Shockify",    url: "https://shockify.st/?code=NzA5NDM4NzEyMzQwMjE4NzIwMF8zMjM0NDQ4MTU0ODA4ODY1MDY1" },
   { nome: "Immortal",    url: "https://immortal.st/?code=ODIyODQ1Nzg3ODEyNDY3MzAzXzMyMzQ0NDgxNTQ4MDg4NjUwNjU=" },
   { nome: "UltimaX",  url: "https://app.beamse.pro/gen/EternalBeam" },
+{ nome: "Astral",  url: "https://generator.st/gen/ETERNAL" },
   { nome: "Splunk",     url: "https://app.beamers.si/u/Eternal" },
   { nome: "AutoHar",  url: "https://bloxtool.top/auth?ref=516013" },
   { nome: "Eternal Gen",    url: "https://eternal-generator.lovable.app/" },
